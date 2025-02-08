@@ -1,0 +1,45 @@
+* {
+    display: block;
+    font-size: 15px;
+}
+mainTitle {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0px
+}
+firstPartTitle {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+title {
+   color: red;
+   font-size: 20px; 
+   padding: 20px;
+}
+
+name, age, location {
+    color: green;
+    padding: 0px 30px;
+}
+interest {
+    color: #c96d22;
+    padding: 0px 30px;
+}
+genre, artist {
+    color: #528082;
+    padding: 0px 30px;
+}
+filmGenre, movie {
+    color: #93a61b;
+    padding: 0px 30px;
+}
+bookGenre, book {
+    color: #4a0a78;
+    padding: 0px 30px;
+}
+imageUrl {
+    color: black;
+    padding: 0px 30px 30px 30px;
+}

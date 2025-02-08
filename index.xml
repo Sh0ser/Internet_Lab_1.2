@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE userProfile SYSTEM "index.dtd">
+<?xml-stylesheet type="text/css" href="css/main_page.css"?>
+
+<userProfile>
+    <importantInfo>
+        <mainTitle>Лабораторна робота №2, Володимир Дудко, варіант №4</mainTitle>
+        <firstPartTitle>Частина 1</firstPartTitle>
+    </importantInfo>
+
+    <generalInfo>
+        <title>Дані користувача</title>
+        <name>Володимир Дудко</name>
+        <age>20</age>
+        <location>Київ, Україна</location>
+    </generalInfo>
+
+    <interests>
+        <title>Інтереси</title>
+        <interest>Велосипед</interest>
+        <interest>Подорожі</interest>
+        <interest>Походи</interest>
+    </interests>
+
+    <music>
+        <favoriteGenres>
+            <title>Улюблені жанри у музиці</title>
+            <genre>Реп</genre>
+            <genre>Рок</genre>
+        </favoriteGenres>
+        <favoriteArtists>
+            <title>Улюблені співаки</title>
+            <artist>Yarmak</artist>
+            <artist>Eminem</artist>
+            <artist>Rammstein</artist>
+        </favoriteArtists>
+    </music>
+    <movies>
+        <favoriteGenres>
+            <title>Улюблені жанри у фільмах</title>
+            <filmGenre>Наукові</filmGenre>
+            <filmGenre>Фантастика</filmGenre>
+            <filmGenre>Бойовики</filmGenre>
+        </favoriteGenres>
+        <favoriteMovies>
+            <title>Топ фільмів</title>
+            <movie>Усі гроші світу</movie>
+            <movie>Гравець</movie>
+            <movie>Форрест Ґамп</movie>
+        </favoriteMovies>
+    </movies>
+    <literature>
+        <favoriteGenres>
+            <title>Улюблені жанри у книгах</title>
+            <bookGenre>Фантастика</bookGenre>
+            <bookGenre>Філософія</bookGenre>
+            <bookGenre>Історія</bookGenre>
+        </favoriteGenres>
+        <favoriteBooks>
+            <title>Топ книг</title>
+            <book>Фах — Айзек Азімов</book>
+            <book>Чайка на ім`я Джонатан Лінгвістон - Річард Бах</book>
+            <book>П'ятнадцятирічний капітан - Жуль Верн</book>
+        </favoriteBooks>
+    </literature>
+
+    <avatar>
+        <title>Аватар</title>
+        <imageUrl>https://firtka.if.ua/data/blog/131696/f8070f519e6399e1d7570c1e640f8eba.jpg</imageUrl>
+    </avatar>
+</userProfile>
